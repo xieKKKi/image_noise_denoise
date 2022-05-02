@@ -1,3 +1,7 @@
+噪声类型：高斯噪音、瑞利噪音、爱尔兰（伽马）噪音、指数噪音、均匀噪音、椒盐噪音
+
+去噪手段：'meanBlur', 'boxFilter', 'GaussianBlur', 'medianBlur', 'NonLocalMeans'
+
 原图：origin.png
 
 源码：denoise.py
